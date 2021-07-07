@@ -6,8 +6,17 @@
 - 🤔 I’m looking for help with ArduinoUno-ESP8266-Firebase-Sensors
 - 💬 Ask me about anything, doesn't matter if I Know or Don't 
 - 📫 How to reach me: email- sathviksaya@gmail.com, Ph.No.- +916363345756
-- 😄 Pronouns: buddy, man, bro, dude
+- 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
 
 
-My ✨_special_✨ repository
+# GitHub Activity
+
+![counter](https://en7bzls65g1g55c.m.pipedream.net)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=sathviksaya)
+
+
+# This Repo
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
