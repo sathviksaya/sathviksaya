@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**sathviksaya/sathviksaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my Restaurant with App & Bot Project
 - 🌱 I’m currently learning more feature in Flutter
 - 👯 I’m looking to collaborate on Flutter and Web Projects
@@ -13,4 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email-sathviksaya@gmail.com, Ph.No.-6363345756
 - 😄 Pronouns: buddy, man, bro, dude
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
--->
+
+
+My ✨_special_✨ repository
