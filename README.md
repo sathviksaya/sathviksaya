@@ -13,7 +13,7 @@
 # This Repo
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
 
-![](https://github.com/sathviksaya/sathviksaya/github-user-contribution.svg)
+![](https://github.com/sathviksaya/sathviksaya/blob/main/github-user-contribution.svg)
 
 # GitHub Activity
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
