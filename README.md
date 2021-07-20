@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on my Restaurant with App & Bot Project
 - 🌱 I’m currently learning more feature in Flutter
 - 👯 I’m looking to collaborate on Flutter and Web Projects
@@ -11,20 +10,11 @@
 - 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
 
+# This Repo
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
+
 
 # GitHub Activity
-
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sathviksaya)
-
-- uses: Platane/snk@master
-  with:
-    github_user_name: ${{ github.sathviksaya }}
-    gif_out_path: dist/github-snake.gif
-    svg_out_path: dist/github-snake.svg
-
-
-# This Repo
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
