@@ -5,7 +5,9 @@
 - 👯 I’m looking to collaborate on Flutter and Web Projects
 - 🤔 I’m looking for help with ArduinoUno-ESP8266-Firebase-Sensors
 - 💬 Ask me about anything, doesn't matter if I Know or Don't 
-- 📫 How to reach me: email- sathviksaya@gmail.com, Ph.No.- +916363345756
+- 📫 How to reach me:
+  - email - sathviksaya@gmail.com
+  - mobile - +916363345756
 - 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
 
@@ -15,6 +17,12 @@
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sathviksaya)
+
+- uses: Platane/snk@master
+  with:
+    github_user_name: ${{ github.sathviksaya }}
+    gif_out_path: dist/github-snake.gif
+    svg_out_path: dist/github-snake.svg
 
 
 # This Repo
