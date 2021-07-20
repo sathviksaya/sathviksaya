@@ -13,7 +13,7 @@
 # This Repo
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
 
-# Snake eating my contributions....:(
+# Snake eating my contributions...  :(
 ![snake gif](https://github.com/sathviksaya/sathviksaya/blob/output/github-contribution-grid-snake.gif)
 
 # GitHub Activity
