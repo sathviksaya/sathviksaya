@@ -13,6 +13,7 @@
 # This Repo
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
 
+![](https://github.com/sathviksaya/sathviksaya/github-contribution-grid-snake.svg)
 
 # GitHub Activity
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
