@@ -10,9 +10,6 @@
 - 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
 
-# This Repo
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
-
 # Snake eating my contributions...  :(
 ![snake gif](https://github.com/sathviksaya/sathviksaya/blob/output/github-contribution-grid-snake.gif)
 
@@ -20,3 +17,6 @@
 ![counter](https://en7bzls65g1g55c.m.pipedream.net)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sathviksaya)
+
+# This Repo
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sathviksaya&repo=sathviksaya)
