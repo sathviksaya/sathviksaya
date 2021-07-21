@@ -3,18 +3,22 @@
 <sup>OctoMinion</sup>
 </div>
 
+<a value="lalal" src="https://www.instagram.com/sathviksaya/">
+
 ### Hi there 👋
 <details>
 <summary>Click here to know about me!!!</summary>
 <pre>
 - 🔭 I’m currently working on my Restaurant with App & Bot Project.
-- 🌱 I’m currently learning new widgets and packages in Flutter.
+- 🌱 I’m currently learning B.Tech in CSE, PESU-Bangalore.
 - 👯 I’m looking to collaborate on Flutter and Web Projects.
 - 🤔 I’m looking for help with Arduino line following robot.
 - 💬 Ask me about anything, doesn't matter if I Know or Don't.
 - 📫 How to reach me:
-  - email - sathviksaya@gmail.com
-  - mobile - +91 6363345756
+  - email-sathviksaya@gmail.com
+  - <a href="https://www.linkedin.com/in/sathvik-saya-384a01197/">LinkedIn</a>
+  - <a href="https://www.instagram.com/sathviksaya/">Instagram</a>
+  - <a href="https://www.facebook.com/sathviksaya/">Facebook</a>
 - 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
 </pre>
