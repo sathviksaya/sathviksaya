@@ -14,6 +14,7 @@
 - 💬 Ask me about anything, doesn't matter if I Know or Don't.
 - 📫 How to reach me:
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="15" title="Gmail"/> - sathviksaya@gmail.com
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/whatsapp.svg" width="15" title="Gmail"/> - +91 6363345756
   <Strong>Social</strong> - <a href="https://www.linkedin.com/in/sathvik-saya-384a01197/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="15" title="LinkedIn" /></a>  <a href="https://www.instagram.com/sathviksaya/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="15" title="Instagram" /></a>  <a href="https://www.facebook.com/sathviksaya/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="15" title="Facebook" /></a>  <a href="https://www.github.com/sathviksaya/"><img src="https://edent.github.io/SuperTinyIcons/images/svg/github.svg" width="15" title="Facebook" /></a>
 - 😄 You can call me sathvik, saya, buddy, man, bro, dude.
 - ⚡ Fun fact: Flutter basics can be mastered in a week. Give it a try!
