@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://octodex.github.com/images/minion.png" width="200"><br>
+<sup>OctoMinion</sup>
+</div>
+
 ### Hi there 👋
 <details>
 <summary>Click here to know about me!!!</summary>
